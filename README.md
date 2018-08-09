@@ -13,5 +13,6 @@ Download the file and its dependencies then fill the list of currencies in arbit
 ```python
 currencies = [c.upper() for c in currencies]
 ```
+in the beginning of the definition of the find_arbitrage function.
 
 Hope you enjoy!
