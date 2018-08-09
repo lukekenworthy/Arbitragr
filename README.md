@@ -1,5 +1,5 @@
 # Arbitragr
-A quick little program to find currency exchange arbitrage opportunities given a list of currencies to trade.
+A quick little program to find currency exchange arbitrage opportunities given a list of currencies to trade. With a cool -r ending for some Web 2.0 flair!
 
 ## Explain yourself:
 This program uses the Requests library and BeautifulSoup to parse the informtion on [x-rates.com](https://x-rates.com) to create a currency exchange table and then searches that table for arbitrage opportunities. 
